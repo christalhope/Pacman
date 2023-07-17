@@ -1,2 +1,2 @@
 # Pacman
-Practice makes better.
+Efforts to refine my skills. YouTube tutorial with Chris Courses channel. 
